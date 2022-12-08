@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Pukale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-## Other Common Github Profile Sections
+
+<h4> Other Common Github Profile Sections</h4>
 👩‍💻 I'm currently working on some basic projects and uplloading on this profile.
 
 🧠 I'm currently learning javascript
