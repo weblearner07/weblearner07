@@ -2,16 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h4> Other Common Github Profile Sections</h4>
-👩‍💻 I'm currently working on some basic projects and uplloading on this profile.
-
+👩‍💻 I'm currently working on some basic projects and uploading on this profile.
 🧠 I'm currently learning javascript
 
-👯‍♀️ I'm looking to collaborate on frontend development related stuff's
-
-📫 How to reach me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantpukale09/)
-
-
-
+📫 How to reach me :-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantpukale09/)
 
 - 🌱 I’m currently learning **Javascript,HTMl and CSS**
 
