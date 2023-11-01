@@ -14,4 +14,4 @@
 
 ## 📛Badges
 [![An image of @weblearner07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weblearner07)](https://holopin.io/@weblearner07)
-![Profile View Counter](https://github.com/weblearner07)
+![Profile View Counter](https://komarev.com/ghpvc/?username=weblearner07)
