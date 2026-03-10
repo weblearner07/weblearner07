@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on Web Development related stuff<br>🤝 I’m looking for help with webscraping projects<br>
+👯 Let's collab to learn and grow. Open to open source contributions.<br>🤝 Build, Earn, Build, Repeat<br>
 
 
 ## 🌐 Socials:
